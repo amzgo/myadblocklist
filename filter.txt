@@ -1,1 +1,4 @@
+[Adblock Plus 1.1]
+! Licence: http://sam.zoy.org/wtfpl/
+
 ||welt.de/bin/header-133787248.png
