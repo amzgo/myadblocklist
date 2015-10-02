@@ -2,7 +2,6 @@
 ! Title: my Adblock List
 
 !URLS
-||welt.de/bin/header-133787248.png
-
+||welt.de/bin/headerinsider-146865803.png
 
 !Elements
